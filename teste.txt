@@ -2,3 +2,8 @@ adicionando novo arquivo pelo github para dar o comando push pro nosso repositor
 alterando o arquivo e mandando pro repositorio remoto, depois
  vou dar um git push no segundo repositorio pra receber essas alteracoes
 alteracao novamente
+
+a
+b
+c
+
